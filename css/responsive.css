@@ -1,0 +1,225 @@
+/* // X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap */
+@media (min-width: 320px) and (max-width: 575px){
+    /* Header part start */
+    /* Header part end */
+
+    /* Navigation part start */
+    /* Navigation part end */
+
+    /* Banner part start */
+    /* Banner part end */
+
+    /* Features part start */
+    /* Features part end */
+
+    /* Service part start */
+    .bac_img{
+        display: none;
+    }
+    /* Service part end */
+
+    /* Work part start */
+    /* Work part end */
+
+    /* Products part start */
+    /* Products part end */
+
+    /* Portfolio part start */
+    /* Portfolio part end */
+
+    /* Testimonial part start */
+    /* Testimonial part end */
+
+    /* Footer part start */
+    /* Footer part end */
+}
+
+
+
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px){
+    /* Header part start */
+    /* Header part end */
+
+    /* Navigation part start */
+    /* Navigation part end */
+
+    /* Banner part start */
+    /* Banner part end */
+
+    /* Features part start */
+    /* Features part end */
+
+    /* Service part start */
+    .bac_img, .ser_icon{
+        display: none;
+    }
+    /* Service part end */
+
+    /* Work part start */
+    /* Work part end */
+
+    /* Products part start */
+    /* Products part end */
+
+    /* Portfolio part start */
+    /* Portfolio part end */
+
+    /* Testimonial part start */
+/* Testimonial part end */
+
+    /* Footer part start */
+    /* Footer part end */
+}
+
+
+
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px){
+    /* Header part start */
+    /* Header part end */
+
+    /* Navigation part start */
+    /* Navigation part end */
+
+    /* Banner part start */
+    /* Banner part end */
+
+    /* Features part start */
+    /* Features part end */
+
+    /* Service part start */
+    .bac_img{
+        display: none;
+    }
+    /* Service part end */
+
+    /* Work part start */
+    /* Work part end */
+
+    /* Products part start */
+    /* Products part end */
+
+    /* Portfolio part start */
+    /* Portfolio part end */
+
+    /* Testimonial part start */
+    /* Testimonial part end */
+
+    /* Footer part start */
+    /* Footer part end */
+}
+
+
+
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px){
+    /* Header part start */
+    /* Header part end */
+    
+    /* Navigation part start */
+    /* Navigation part end */
+
+    /* Banner part start */
+    /* Banner part end */
+
+    /* Features part start */
+    /* Features part end */
+
+    /* Service part start */
+    .bac_img{
+        display: none;
+    }
+    /* Service part end */
+
+    /* Work part start */
+    /* Work part end */
+
+    /* Products part start */
+    /* Products part end */
+
+    /* Portfolio part start */
+    /* Portfolio part end */
+
+    /* Testimonial part start */
+    /* Testimonial part end */
+
+    /* Footer part start */
+    /* Footer part end */
+}
+
+
+
+
+/* // X-Large devices (large desktops, 1200px and up) */
+/* @media (min-width: 1200px) and (max-width: 1399px){
+    /* Header part start */
+    /* Header part end */
+    
+    /* Navigation part start */
+    /* Navigation part end */
+
+    /* Banner part start */
+    /* Banner part end */
+
+    /* Features part start */
+    /* Features part end */
+
+    /* About us part start */
+    /* About us part end */
+
+    /* Work part start */
+    /* Work part end */
+
+    /* Products part start */
+    /* Products part end */
+
+    /* Portfolio part start */
+    /* Portfolio part end */
+
+    /* Testimonial part start */
+    /* Testimonial part end */
+
+    /* Footer part start */
+    /* Footer part end
+} */
+
+
+
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+/* @media (min-width: 1400px) {
+    /* Header part start */
+    /* Header part end */
+
+    /* Navigation part start */
+    /* Navigation part end */
+
+    /* Banner part start */
+    /* Banner part end */
+
+    /* Features part start */
+    /* Features part end */
+
+    /* About us part start */
+    /* About us part end */
+
+    /* Work part start */
+    /* Work part end */
+
+    /* Products part start */
+    /* Products part end */
+
+    /* Portfolio part start */
+    /* Portfolio part end */
+
+    /* Testimonial part start */
+    /* Testimonial part end */
+
+    /* Footer part start */
+    /* Footer part end
+} */

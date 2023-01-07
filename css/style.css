@@ -1,0 +1,167 @@
+/* Universal link part start */
+@font-face {
+    font-family: net-bello;
+    src: url(../fonts/net-bello.ttf);
+}
+@font-face {
+    font-family: montserrat-regular;
+    src: url(../fonts/montserrat-regular.ttf);
+}
+@font-face {
+    font-family: montserrat-bold;
+    src: url(../fonts/montserrat-bold.ttf);
+}
+@font-face {
+    font-family: noto-sans;
+    src: url(../fonts/noto-sans.ttf);
+}
+/* Universal link part end */
+
+/* Universal part start */
+.no_padding{
+    padding: 0;
+}
+h2{
+    text-transform: uppercase;
+    font-family: montserrat-bold;
+    font-size: 35px;
+    color: black;
+}
+P{
+    font-family: noto-sans;
+    font-size: 16px;
+    color: #888888;
+}
+a, a:hover{
+    text-decoration: none;
+    color: black;
+}
+/* Universal part end */
+
+/* Header part start */
+/* Navigation part start */
+.navbar-brand, .navbar-brand:hover{
+    font-family: net-bello;
+    color: white;
+    font-size: 35px;
+}
+.nav-item .nav-link{
+    font-family: montserrat-regular;
+    color: white;
+}
+.nav-item .nav-link.active{
+    color: white;
+}
+/* Navigation part end */
+
+/* Banner part start */
+header{
+    background-image: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.banner_overlay{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.banner_content{
+    padding: 130px 0 120px 0;
+}
+.banner_content h1{
+    text-transform: uppercase;
+    font-family: montserrat-bold;
+    font-size: 60px;
+    color: white;
+    margin-bottom: 40px;
+}
+.under_indicator{
+    height: 2px;
+    width: 95px;
+    background-color: #35b9eb;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+.banner_content p{
+    font-family: noto-sans;
+    font-size: 23px;
+    color: white;
+    padding-top: 20px;
+}
+/* Banner part end */
+/* Header part end */
+
+/* Features part start */
+#features{
+    padding: 85px 0;
+}
+.features_head h2{
+    margin-bottom: 40px;
+}
+.features_content h5{
+    text-transform: uppercase;
+    font-family: montserrat-regular;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    padding-top: 13px;
+}
+.f_icon{
+    font-size: 40px;
+}
+.features_content P{
+    font-size: 14px;
+    /* margin: 0; */
+}
+/* Features part end */
+
+/* Service part start */
+.bac_color{
+    background-color: #f7f7f7;
+    padding: 80px 0;
+}
+.parent{
+    position: absolute;
+}
+.child{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.service_content{
+    color: black;
+}
+.service_content h2{
+    margin-bottom: 25px;
+    /* margin-top: 80px; */
+}
+.service_content p{
+    margin-bottom: 40px;
+    font-size: 18px;
+}
+.ser_icon{
+    font-size: 22px;
+    color: #777777;
+}
+.ser_text h6{
+    font-size: 18px;
+    color: #222222;
+    font-family: montserrat-regular;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+/* Service part end */
+
+/* Work part start */
+/* Work part end */
+
+/* Products part start */
+/* Products part end */
+
+/* Portfolio part start */
+/* Portfolio part end */
+
+/* Testimonial part start */
+/* Testimonial part end */
+
+/* Footer part start */
+/* Footer part end */
